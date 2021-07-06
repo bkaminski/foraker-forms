@@ -9,6 +9,6 @@
 <?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
-<div class="header-menu">
-
+<div class="header-menu pr-5">
+	<h1 class="text-white float-end">Brian Foraker</h1>
 </div>
